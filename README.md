@@ -1,2 +1,2 @@
 # AppleESC
-Brushless ESC
+Apple ESC, PCB.
